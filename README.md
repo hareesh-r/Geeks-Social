@@ -14,7 +14,7 @@ The users will be uploading the image of the plant before digging the soil and a
 
 If the user is unaware wheather the soil is suitable for planting, they can upload the image of the soil which will be verified using the Deep Learning algorithm developed using [IBM watson studio](https://www.ibm.com/in-en/cloud/watson-studio) in the provided Juypter Notebook Environment.
 
-<img src="https://raw.githubusercontent.com/hareesh-r/Geeks-Social/main/DNN.jpg"/>
+<img src="https://raw.githubusercontent.com/Harshithaa-G/Geeks-Social/main/DNN.jpg"/>
 
 The model.h5 file will be produced by using a **Deep Neural Network (DNN)** with 7 Layers to train with Soil images, The layers will be trained using a Sequential model and relevent images. We will be using [Tensorflow](https://www.tensorflow.org/) module provided by Google, specifically Keras API to implement the Sequential training using Deep Learning Techniques like Convo2D , Dense , Flatten , MaxPooling, DropOut , SoftMax and Batch Normalization and for Activation we chose "elu".
 After populating the model.h5 file that will be integrated with our React Native App using ["tfjs-react-native"](https://www.npmjs.com/package/@tensorflow/tfjs-react-native) library. Once the image is verified and if it's suitable for planting the message will be displayed to the user notifying that the soil is suitable for planting.
@@ -22,3 +22,5 @@ After populating the model.h5 file that will be integrated with our React Native
 
 
 An app that uses deep learning to suggest people which localities near them are best suited for planting trees, encourages people to post about what they’ve planted to gain points which enable them to get coupons and cash prizes, Anyone using Ecoville can plant trees without even leaving their home, the app takes an order and plants a tree on your behalf and assigns you points for that too! Additionally, it also encourages them to cycle instead of using automobiles, clean trash etc. etc. Doing all these ecofriendly activities would gain them points as well.
+
+<img src="https://raw.githubusercontent.com/Harshithaa-G/Geeks-Social/main/Web%201920%20%E2%80%93%201.png" />
