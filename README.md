@@ -23,28 +23,3 @@ After populating the model.h5 file that will be integrated with our React Native
 
 An app that uses deep learning to suggest people which localities near them are best suited for planting trees, encourages people to post about what they’ve planted to gain points which enable them to get coupons and cash prizes, Anyone using Ecoville can plant trees without even leaving their home, the app takes an order and plants a tree on your behalf and assigns you points for that too! Additionally, it also encourages them to cycle instead of using automobiles, clean trash etc. etc. Doing all these ecofriendly activities would gain them points as well.
 
-## IBM SERVICES USED
-
->1. Watson Studio (Jupyter Notebook)- For training the model using Deep Learning for predicting the soil.
-
->2. Watson Assistant - For Voice Chat Bots to show when the user reach the destination for planting trees and the cycling destination.
-    - Bot will be able to tell the distance left and distance covered and the expected time to reach the destination.
-
->3. Cloudant - For storing the details of every user joining the App.
-    - Login Credentials
-    - Points each user have
-     - Datas about the activities each user has done.
-
->4. API Gateway - For having a bridge between the frontend and backend, API gateway will be created for fetching the datas from Cloudant and display it back to the front end.
-
->5. Dedicated host for VPC - A website for Eco Ville will be hosted in the Dedicated Hosting platform provided by IBM, for user friendly experience. 
-
->6. Email Delivery, powered by Sendgrid (PAID) - For sending users remainder mails,after a month of planting the plant, to remind them about watering it.
-
->7. Push Notifications - To send notifications in mobile as well as website.
-
->8. Telstra Messaging API -  To send SMS/MMS messages globally using Telstra's enterprise grade Messaging API.
-
->9. IBM Cloud Monitoring - To  manage enterprise grade monitoring service by providing operational visibility into the performance and health of applications, services and infrastructure.
-
-<img src="https://raw.githubusercontent.com/Harshithaa-G/Geeks-Social/main/Web%201920%20%E2%80%93%201.png" />
