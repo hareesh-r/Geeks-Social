@@ -16,6 +16,8 @@ Climate change has always been a persistent and fatal issue and the problem with
  ## Submission Name:     Eco Ville,a mobile application to make a difference!        
 
 ## [Link to the Demo Video](https://youtu.be/40ZY_vaVn3w)
+
+[![Link to the Demo Video](http://img.youtube.com/vi/40ZY_vaVn3w/0.jpg)](http://www.youtube.com/watch?v=40ZY_vaVn3w "WIT Hackathon | Demo Video -Eco Ville | Hack for Sustainability with Tech Solutions")
     
 
 ## Long Description
