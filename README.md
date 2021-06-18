@@ -13,7 +13,7 @@ Climate change has always been a persistent and fatal issue and the problem with
                           
                 Mentor :  M.P. Karthikeyan
                 
- ## Submission Name:     Eco Ville,a mobile application to make a difference!        
+ ## Submission Name:     Eco Ville, A mobile application to make a difference!        
 
 ## [Link to the Demo Video](https://youtu.be/40ZY_vaVn3w)
 
