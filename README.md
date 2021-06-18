@@ -19,7 +19,7 @@ Climate change has always been a persistent and fatal issue and the problem with
 
 [![WIT Hackathon | Demo Video -Eco Ville | Hack for Sustainability with Tech Solutions](http://img.youtube.com/vi/40ZY_vaVn3w/0.jpg)](http://www.youtube.com/watch?v=40ZY_vaVn3w "WIT Hackathon | Demo Video -Eco Ville | Hack for Sustainability with Tech Solutions")
 
-[![WIT Hackathon | Prototype Walk Through - Eco Ville | Hack for Sustainability with Tech Solutions](http://img.youtube.com/vi/nXKvC3zqBo/0.jpg)](http://www.youtube.com/watch?v=nXKvC3zqBo "WIT Hackathon | Prototype Walk Through - Eco Ville | Hack for Sustainability with Tech Solutions")
+[![WIT Hackathon | Prototype Walk Through - Eco Ville | Hack for Sustainability with Tech Solutions](http://img.youtube.com/vi/-nXKvC3zqBo/0.jpg)](http://www.youtube.com/watch?v=-nXKvC3zqBo "WIT Hackathon | Prototype Walk Through - Eco Ville | Hack for Sustainability with Tech Solutions")
     
 
 ## Long Description
