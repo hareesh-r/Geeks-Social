@@ -29,7 +29,7 @@ The users will be uploading the image of the plant before and after planting the
 
 If the user is unaware whether the soil is suitable for planting, they can upload the image of the soil which will be verified using the Deep Learning algorithm developed using [IBM watson studio](https://www.ibm.com/in-en/cloud/watson-studio) in the provided Juypter Notebook Environment.
 
-<img src="https://raw.githubusercontent.com/Harshithaa-G/Geeks-Social/main/DNN.jpg"/>
+<img src="https://raw.githubusercontent.com/Harshithaa-G/Geeks-Social/main/images/DNN.jpg"/>
 
 The model.h5 file will be produced by using a **Deep Neural Network (DNN)** with 7 Layers to train with Soil images, The layers will be trained using a Sequential model and relevent images. We will be using [Tensorflow](https://www.tensorflow.org/) module provided by Google, specifically Keras API to implement the Sequential training using Deep Learning Techniques like 
 ``Convo2D , Dense , Flatten , MaxPooling, DropOut , SoftMax and Batch Normalization and for Activation we chose "elu".``
