@@ -13,17 +13,11 @@ Climate change has always been a persistent and fatal issue and the problem with
                           
                 Mentor :  M.P. Karthikeyan
                 
- ## Submission Name:     Eco Ville, A mobile application to make a difference!        
+ ## Submission Name:     Eco Ville,a mobile application to make a difference!        
 
 ## [Link to the Demo Video](https://youtu.be/40ZY_vaVn3w)
 
-### WIT Hackathon | Demo Video -Eco Ville | Hack for Sustainability with Tech Solutions
-
-[![WIT Hackathon | Demo Video -Eco Ville | Hack for Sustainability with Tech Solutions](http://img.youtube.com/vi/40ZY_vaVn3w/0.jpg)](http://www.youtube.com/watch?v=40ZY_vaVn3w "WIT Hackathon | Demo Video -Eco Ville | Hack for Sustainability with Tech Solutions")
-
-### WIT Hackathon | Prototype Walk Through - Eco Ville | Hack for Sustainability with Tech Solutions
-
-[![WIT Hackathon | Prototype Walk Through - Eco Ville | Hack for Sustainability with Tech Solutions](http://img.youtube.com/vi/-nXKvC3zqBo/0.jpg)](http://www.youtube.com/watch?v=-nXKvC3zqBo "WIT Hackathon | Prototype Walk Through - Eco Ville | Hack for Sustainability with Tech Solutions")
+[![Link to the Demo Video](http://img.youtube.com/vi/40ZY_vaVn3w/0.jpg)](http://www.youtube.com/watch?v=40ZY_vaVn3w "WIT Hackathon | Demo Video -Eco Ville | Hack for Sustainability with Tech Solutions")
     
 
 ## Long Description
@@ -35,6 +29,8 @@ The users will be uploading the image of the plant before and after planting the
 
 If the user is unaware whether the soil is suitable for planting, they can upload the image of the soil which will be verified using the Deep Learning algorithm developed using [IBM watson studio](https://www.ibm.com/in-en/cloud/watson-studio) in the provided Juypter Notebook Environment,and plants that are suitable for that soil type are predicted.
 
+If users can't plant themselves,they can choose the plant they want and the best place to plant it,and the admins will plant it for them!
+
 <img src="https://raw.githubusercontent.com/Harshithaa-G/Geeks-Social/main/images/DNN.jpg"/>
 
 The model.h5 file will be produced by using a **Deep Neural Network (DNN)** with 7 Layers to train with Soil images, The layers will be trained using a Sequential model and relevent images. We will be using [Tensorflow](https://www.tensorflow.org/) module provided by Google, specifically Keras API to implement the Sequential training using Deep Learning Techniques like 
@@ -43,6 +39,11 @@ The model.h5 file will be produced by using a **Deep Neural Network (DNN)** with
 After populating the model.h5 file that will be integrated with our React Native App using ["tfjs-react-native"](https://www.npmjs.com/package/@tensorflow/tfjs-react-native) library. Once the image is verified and if it's suitable for planting the message will be displayed to the user notifying that the soil is suitable for planting.
 
 The concept of choosing cycles is highlighted here.They can track the distance they travelled on cycle,This is calculated using Google's location API,They can start and end their journey by pressing the respective buttons and the time they take to travel will be verified with the time shown by Google's API.
+
+They can post pictures of them planting trees or cycling and motivate themselves and others to do keep doing that.The public posts section shows the posts of people acoording to the points,So who want to be on the top should be more active.They can save their posts in myposts section.
+
+
+
 
 
 
