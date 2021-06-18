@@ -27,7 +27,7 @@ Using our EcoVille app,The users will be able to see the locations where the num
 
 The users will be uploading the image of the plant before and after planting the seed,then the image will be sent for validation the admin panel will verify the images and once the validation is successful the user will be rewarded with eco points, As the user base grows exponentially we'll allow the verified users who have crossed a milestone, to do peer review and validate along with the admin panel where they will be awarded with eco ponits which inturn they can later convert it into money.
 
-If the user is unaware whether the soil is suitable for planting, they can upload the image of the soil which will be verified using the Deep Learning algorithm developed using [IBM watson studio](https://www.ibm.com/in-en/cloud/watson-studio) in the provided Juypter Notebook Environment.
+If the user is unaware whether the soil is suitable for planting, they can upload the image of the soil which will be verified using the Deep Learning algorithm developed using [IBM watson studio](https://www.ibm.com/in-en/cloud/watson-studio) in the provided Juypter Notebook Environment,and plants that are suitable for that soil type are predicted.
 
 <img src="https://raw.githubusercontent.com/Harshithaa-G/Geeks-Social/main/images/DNN.jpg"/>
 
