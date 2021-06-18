@@ -23,7 +23,7 @@ After populating the model.h5 file that will be integrated with our React Native
 
 An app that uses deep learning to suggest people which localities near them are best suited for planting trees, encourages people to post about what they’ve planted to gain points which enable them to get coupons and cash prizes, Anyone using Ecoville can plant trees without even leaving their home, the app takes an order and plants a tree on your behalf and assigns you points for that too! Additionally, it also encourages them to cycle instead of using automobiles, clean trash etc. etc. Doing all these ecofriendly activities would gain them points as well.
 
->IBM SERVICES USED
+## IBM SERVICES USED
 
 >1. Watson Studio (Jupyter Notebook)- For training the model using Deep Learning for predicting the soil.
 
