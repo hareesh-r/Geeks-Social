@@ -4,7 +4,7 @@
 
 Climate change has always been a persistent and fatal issue and the problem with tackling it is that there’s no efficient means to check if one’s role in saving the environment is efficient. We have seen quite a lot of people with noble motives to plant saplings, but the problem is that oftentimes such groups of individuals end up planting all these saplings in areas that already have an abundance of trees, due to this even though their cause is good, their efforts turn out vain.
 
-## Team Name:Geeks Social 
+## Team Name : Geeks Social 
                 Members : 1) D.Harshitha Reddy
                           2) G.Harshini Naidu
                           3) T.Gejashree
