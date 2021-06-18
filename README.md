@@ -36,6 +36,8 @@ The model.h5 file will be produced by using a **Deep Neural Network (DNN)** with
 
 After populating the model.h5 file that will be integrated with our React Native App using ["tfjs-react-native"](https://www.npmjs.com/package/@tensorflow/tfjs-react-native) library. Once the image is verified and if it's suitable for planting the message will be displayed to the user notifying that the soil is suitable for planting.
 
+The users will be able to travel using cycle 
+
 
 ## IBM SERVICES TO BE USED WHILE IMPLEMENTING THE APP
 
