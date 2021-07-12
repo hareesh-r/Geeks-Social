@@ -77,4 +77,3 @@ They can post pictures of them planting trees or cycling and motivate themselves
 >9. IBM Cloud Monitoring - To  manage enterprise grade monitoring service by providing operational visibility into the performance and health of applications, services and infrastructure.
 
 <img src="https://raw.githubusercontent.com/Harshithaa-G/Geeks-Social/main/images/Web%201920%20%E2%80%93%201.png" />
-
